@@ -1,6 +1,6 @@
 # Machine-Learning
 University machine learning projects
-#K-nn
+# K-nn
 The goal is to write a program that takes the following arguments:
 
 k: a positive integer representing the hyperparameter for k-NN.
@@ -18,7 +18,7 @@ Test it on data from the training and test sets located in the iris.data and iri
 
 Note: The program should accept any dataset (in a format similar to iris.data) and adapt to any number of dimensions.
 
-#Perceptron
+# Perceptron
 The file perceptron.data contains the training data: a subset of the Iris dataset limited to Iris-versicolor and Iris-virginica. The file perceptron.test.data contains the test set. Implement a perceptron and train it to distinguish between the two species. Test it on the test set and print the classification accuracy.
 
 The program should allow:
